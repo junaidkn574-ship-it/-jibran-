@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Asad Flow Game</string>
+    <string name="play_button">Play</string>
+    <string name="level_select">Level Select</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="settings">Settings</string>
+</resources>
